@@ -5,6 +5,7 @@
     -git commit -m ¨comentario¨
     -git branch -M main
 ** Debemos crear un repositorio enb github **
+
     -git remote add origin https://github.com/JonhyTorres/Clases_pwi_tn_abril_UTN.git
     - git push -u origin main
 
@@ -17,6 +18,15 @@
     *git add .
     *gir commit -m ¨comentario¨
     *git push
+
+    #Si me equivoqué al poner el git remote usamos el comando 
+
+    *git remote set-urñ origin <URL>
+
+    **Podemos usar git satatus para obtener una información detallada del estado de nuestro repo**
+    
+
+
 
 
 
