@@ -24,7 +24,10 @@
     *git remote set-urñ origin <URL>
 
     **Podemos usar git satatus para obtener una información detallada del estado de nuestro repo**
+
+    *git status
     
+
 
 
 
