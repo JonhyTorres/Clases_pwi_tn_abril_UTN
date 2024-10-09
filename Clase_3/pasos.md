@@ -13,7 +13,7 @@
 
     **Podemos usar git status para obtener una información detallada del estado de nuestro repo**
 
-    #Si estoy acualizando:
+    #Si estoy acualizando: despues de hacer ctls s 
 
     *git add .
     *gir commit -m ¨comentario¨
@@ -26,7 +26,11 @@
     **Podemos usar git satatus para obtener una información detallada del estado de nuestro repo**
 
     *git status
-    
+
+    **Para ver que origfen remoto tengo**
+
+        *git remote -v
+
 
 
 
