@@ -4,7 +4,7 @@
     -git add .
     -git commit -m ¨comentario¨
     -git branch -M main
-** Debemos crear un repositorio enb github **
+** Debemos crear un repositorio en github **
 
     -git remote add origin https://github.com/JonhyTorres/Clases_pwi_tn_abril_UTN.git
     - git push -u origin main
@@ -17,7 +17,7 @@
 
     *git add .
     *gir commit -m ¨comentario¨
-    *git push
+    *git pus
 
     #Si me equivoqué al poner el git remote usamos el comando 
 
@@ -28,6 +28,8 @@
     *git status
 
     **Para ver que origfen remoto tengo**
+
+    Hola mundo de prueba
 
         *git remote -v
 
